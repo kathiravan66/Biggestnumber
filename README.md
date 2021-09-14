@@ -13,7 +13,7 @@ public class BiggestNumber
 		z=s.nextInt();
 		if(x>y&&x>z)
 		{
-			System.out.println("Largest number is:"+x);
+			System.out.println("Largest Kathir number is:"+x);
 		}
 		else if(y>x&&y>z)
 		{
